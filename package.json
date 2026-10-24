@@ -17,6 +17,7 @@
     "@vitejs/plugin-vue": "^6.0.8",
     "@vitejs/plugin-vue-jsx": "^5.1.6",
     "prettier": "3.9.6",
+    "sass": "^1.106.1",
     "vite": "^8.2.2",
     "vite-plugin-vue-devtools": "^8.2.1"
   },
